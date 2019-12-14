@@ -1,5 +1,5 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import Wordpress2016 from 'typography-theme-twin-peaks'
 
 Wordpress2016.overrideThemeStyles = () => {
   return {
@@ -8,8 +8,6 @@ Wordpress2016.overrideThemeStyles = () => {
     },
   }
 }
-
-delete Wordpress2016.googleFonts
 
 const typography = new Typography(Wordpress2016)
 

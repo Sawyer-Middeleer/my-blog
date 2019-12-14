@@ -8,12 +8,11 @@ class Layout extends React.Component {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
     let header
-
     if (location.pathname === rootPath) {
       header = (
         <h1
           style={{
-            ...scale(1.5),
+            ...scale(1.2),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -56,14 +55,14 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(28),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built by Sawyer Middeleer and powered by
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
