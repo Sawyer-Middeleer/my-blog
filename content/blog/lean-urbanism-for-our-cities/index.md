@@ -2,6 +2,7 @@
 title: Lean Urbanism for Our Cities
 date: "2019-12-13T22:12:10.284Z"
 description: "Lean Urbanism for Our Cities"
+tags: ["Blog Post"]
 ---
 
 Lean Urbanism for Better Cities
