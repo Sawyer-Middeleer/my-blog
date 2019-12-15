@@ -66,7 +66,7 @@ const Bio = () => {
         <li>
         {` `}
         <a href={`https://github.com/${social.github}`}>
-          Or his Github
+          And his Github
         </a>
         </li>
       </p>
