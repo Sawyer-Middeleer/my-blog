@@ -1,8 +1,8 @@
 ---
 title: Lean Urbanism for Our Cities
 date: "2019-12-13T22:12:10.284Z"
-description: "Lean Urbanism for Our Cities"
-tags: ["Blog Post"]
+description: "A software development team that adheres to Lean principles follows a highly iterative process of delivering products or product updates, measuring performance, gathering new insights based on data and incorporating those insights into a new round of development. The creators of Lean Urbanism realized that these principles could also be incorporated into real estate development, urban planning and architecture..."
+tag: "Essay"
 ---
 
 Lean Urbanism for Better Cities
