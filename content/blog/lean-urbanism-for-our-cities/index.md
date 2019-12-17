@@ -52,7 +52,7 @@ Boston’s bus rapid transit (BRT) pilot is a perfect example of successful mult
 
 In a perfect world, this kind of people-centric planning and design would be the norm, not an exception. Communities with forward-thinking residents facing immense growth like Boston, San Francisco and Austin would ideally become the heart of the Lean Urbanism movement. Unfortunately, in 5 years Lean Urbanism has yet to scale its vision much beyond infrequent pilot projects.
 
-<h4>Lean Urbanism has seen slow adoption because of two key reasons: unfavorable politics and lack of appealing business case.</4>
+<h4>Lean Urbanism has seen slow adoption because of two key reasons: unfavorable politics and lack of appealing business case.</h4>
 
 Let’s say you live in a growing suburb with mostly 1-story single family homes and a small business district with some one-story commercial buildings and strip malls. You know the kind of place I’m talking about.
 
