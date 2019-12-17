@@ -4,9 +4,9 @@ date: "2019-12-13T22:12:10.284Z"
 description: "By enabling more resident feedback at every stage in the planning process, Lean Urbanism can provide opportunities for co-design and co-creation between residents and developers. Supporting this type of collaborative urban development is a big step towards making cities more equitable and vibrant."
 tag: "Essay"
 ---
-Some of the country’s most progressive cities—New York, Boston, Chicago, Los Angeles, San Francisco—are falling behind. After over a decade of young people moving to cities in droves, the “urban renaissance” appears to be waning.
+Some of the country’s most progressive cities—New York, Boston, Chicago, Los Angeles, San Francisco—are falling behind. After over a decade of young people moving to cities in droves, <a href="https://www.brookings.edu/blog/the-avenue/2019/05/24/big-city-growth-stalls-further-as-the-suburbs-make-a-comeback/"> city population growth is declining</a>; the “urban renaissance” appears to be waning.
 
-Rising housing costs combined with achingly low rates of new construction have all but locked out many would-be residents from the most desirable urban areas. Businesses are also having second thoughts about staying in these cities. Complex licensing requirements and business regulations add extra hurdles that businesses have to navigate at high expense. Overall, this status quo of rising costs and obstacles for suppliers trying to meet demand leads to sub-optimally dynamic urbanism.
+Rising housing costs combined with achingly low rates of new construction have all but locked out many current and would-be residents from the most desirable urban areas. Sky-high rents and governments that are unwilling to address changing conditions are also making it <a href="https://www.sfchronicle.com/business/article/35-billion-startup-Stripe-considers-move-out-of-14453688.php"> difficult for businesses </a>to operate in these cities. Ultimately, it is this inability to respond to the full range of diverse stakeholders that could lead to stagnation of our most productive cities.
 
 <h4>What is urbanism and why does it matter?</h4>
 
@@ -20,13 +20,13 @@ It is of course also true that an equilibrium can be achieved in the reverse cas
 
 This highlights one of the key problems facing urban practitioners. Namely, that elected officials and their appointees have the most influence over decisions related to urban planning, policy and public investment, but they are heavily constrained by politics. Even though we know how to fix many of our cities’ problems, challenges to the status quo are often politically infeasible.
 
-For evidence, look no farther than San Francisco, Boston, or any other housing supply constrained city where housing demand growth has greatly outpaced supply growth over the past 30 years. According to the California Legislative Analyst’s Office:
->"If California had added 210,000 new housing units each year over the past three decades...population would be much greater than it is today.
->We estimate that around 7 million additional people would be living in California.
->In some areas, particularly the Bay Area, population increases would be dramatic. For example,
->San Francisco's population would be more than twice as large."
+For evidence, look no farther than San Francisco, Boston, or any other housing supply constrained city where housing demand growth has greatly outpaced supply growth over the past 30 years. According to the <a href="http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf">California Legislative Analyst’s Office</a>:
 
-In order to meet these astronomical goals, vision and leadership is needed from mayors and their appointed officials. Even with leadership that is capable of setting the right policy goals and aligning stakeholders, vision and priorities can’t just come from the top. If we value equity and diversity, then the insights of local residents and businesses must be included at every point in the development process. A new paradigm of multi-stakeholder, iterative approaches to urban development is needed.
+>"If California had added 210,000 new housing units each year over the past three decades (as opposed to 120,000)… population would be much greater than it is today. We estimate >that around 7 million additional people would be living in California. In some areas, particularly the Bay Area, population increases would be dramatic. For example, San >Francisco's population would be more than twice as large (1.7 million people versus around 800,000)."
+
+In order to meet these astronomical goals, vision and leadership is needed from mayors and their appointed officials. Even with leadership that is capable of setting the right policy goals and aligning stakeholders, vision and priorities can’t just come from the top.
+
+If we value equity and diversity, then the insights of local residents and businesses must be included at every point in the development process. A new paradigm of multi-stakeholder, iterative approaches to urban development is needed.  
 
 Lean Urbanism is a movement that emerged to fill this gap. As we’ll see, it has so far only been partially successful.
 
@@ -34,10 +34,11 @@ Lean Urbanism is a movement that emerged to fill this gap. As we’ll see, it ha
 
 The Lean Urbanism movement was started about 5 years ago by the late, great Hank Dittmar and Brian Falk. It’s a project that seeks to leverage the insights of Lean development to deliver high-value urban projects quickly and cheaply.
 
-According to the founders of the Project for Lean Urbanism,
->“Lean Urbanism is a movement of builders, planners, architects, developers, engineers, activists, nonprofits, municipalities, and entrepreneurs, working to lower the barriers to community-building, to make it easier to start businesses, and to provide more attainable housing and development.”
+According to the founders of the <a href="https://leanurbanism.org">Project for Lean Urbanism</a>,
 
-Lean Urbanism is inspired by the philosophy first expounded in Eric Ries’ Lean Startup. Ries’ approach to building a business and developing technology products emphasizes principles of frequent interaction with end-users, rapid prototyping, iteration and waste elimination. Compared to older product management methodologies, Lean management principles enable startups (and mature organizations) to deliver products that better address user needs and at lower cost.
+>“Lean Urbanism is a movement of builders, planners, architects, developers, engineers, activists, nonprofits, municipalities, and entrepreneurs, working to lower the barriers >to community-building, to make it easier to start businesses, and to provide more attainable housing and development.”
+
+Lean Urbanism is inspired by the philosophy first expounded in Eric Ries’<a href="http://theleanstartup.com/"> Lean Startup</a>. Ries’ approach to building a business and developing technology products emphasizes principles of frequent interaction with end-users, rapid prototyping, iteration and waste elimination. Compared to older product management methodologies, Lean management principles enable startups (and mature organizations) to deliver products that better address user needs and at lower cost.
 
 A business that adheres to Lean principles follows a highly iterative process of delivering products or product updates, measuring performance, gathering new insights based on data and incorporating those insights into a new round of development. The creators of Lean Urbanism realized that these principles could also be incorporated into real estate development, urban planning and architecture.
 
@@ -47,11 +48,11 @@ Indeed, the promise of Lean Urbanism is to empower practitioners to deliver urba
 
 Lean Urbanism theoretically creates value for every stakeholder in a city. Just as Lean startup founders build better products by rapidly testing prototypes and make decisions based on customer feedback, Lean urbanists produce great projects by gathering resident feedback. By empowering developers and other urban practitioners to try new ideas and learn from their customers, Lean Urbanism has the potential to catalyze innovation. Moreover, Lean principles would ensure that more stakeholders have opportunities to provide input to development and decision-making processes.
 
-Boston’s bus rapid transit (BRT) pilot is a perfect example of successful multi-sector approach to Lean Urbanism. After years of campaigning by local advocacy groups and transit professionals, the pilot projects were conducted in 2018 as partnerships between local municipalities and the MBTA. According to BostonBRT, bus riders in Arlington saved up to 10 minutes on their commute and riders’ median trips through the Arlington pilot area were 41% faster during rush hour. Even better, a robust user feedback mechanism was built into the process. After collecting rider feedback, Arlington has since made its BRT routes permanent.
+Boston’s bus rapid transit (BRT) pilot is a perfect example of successful multi-sector approach to Lean Urbanism. After years of campaigning by local advocacy groups and transit professionals, the pilot projects were conducted in 2018 as partnerships between local municipalities and the MBTA. According to <a href="http://www.bostonbrt.org/"> BostonBRT</a>, bus riders in Arlington saved up to 10 minutes on their commute and riders’ median trips through the Arlington pilot area were 41% faster during rush hour. Even better, a robust user feedback mechanism was built into the process. After collecting rider feedback, Arlington has since made its BRT routes permanent.
 
 In a perfect world, this kind of people-centric planning and design would be the norm, not an exception. Communities with forward-thinking residents facing immense growth like Boston, San Francisco and Austin would ideally become the heart of the Lean Urbanism movement. Unfortunately, in 5 years Lean Urbanism has yet to scale its vision much beyond infrequent pilot projects.
 
-<h4>Lean Urbanism has seen slow adoption because of two key reasons: unfavorable politics and lack of appealing business case.</h4>
+<h4>Lean Urbanism has seen slow adoption because of two key reasons: unfavorable politics and lack of appealing business case.</4>
 
 Let’s say you live in a growing suburb with mostly 1-story single family homes and a small business district with some one-story commercial buildings and strip malls. You know the kind of place I’m talking about.
 
@@ -69,7 +70,7 @@ A successful Lean Urbanism movement would look like the one that picked up AOC�
 
 This isn’t to say that Lean Urbanists are not thinking about politics—they are. But so far, their efforts have been overly focused on appealing to fellow policy wonks rather than creating a movement that everyone else can love. If the movement can reframe its message and speak clearly and convincingly to the problems that people face day to day in their own communities, then people will realize that it’s one of the most people-centric paradigms for urban development out there.
 
-The other hurdle in between the Lean Urbanism movement today and widespread adoption is a financial incentive problem. The same three stakeholder groups that need to be considered from a political standpoint also need to see the business case for bucking the status quo.
+The other hurdle in between the Lean Urbanism movement today and widespread adoption is a financial incentive problem. The same three stakeholder groups that need to be considered from a political standpoint also need to see the business case for bucking the norm.
 
 Developers are the simplest to understand in this dynamic and are currently the biggest supporters of Lean Urbanism. Any policy or procedural change that reduces permitting costs, complexity and time from planning to construction will help their bottom line. While one could rightly be concerned that making it easier for developers to access permits could lead to lower quality buildings, policymakers need to understand the tradeoffs between additional engineering requirements and costs that get passed on to consumers.
 
@@ -82,62 +83,7 @@ The third major stakeholder group, city governments and planning boards, is also
 <h4>Lean Urbanism can still make our cities better.</h4>
 
 It’s no surprise that Lean Urbanism hasn’t been successful in winning supporters over the past 5 years. Aligning several heterogeneous stakeholder groups in systems as complex as American cities is incredibly difficult. So is upending paradigms in urban planning and development that have been entrenched for a hundred years.
+
 Despite the many challenges, I believe the Lean Urbanism movement has potential to grow and win national support. By clarifying its value proposition for residents, developers and elected officials, Lean Urbanists can effectively align the stakeholders it needs to move the needle on policy issues.
 
-Furthermore, Lean Urbanists can unlock the potential of their movement by tapping into urbanites’ shared love of community and desire to see their neighborhoods thrive. By enabling more resident feedback at every stage in the planning process, Lean Urbanism can provide opportunities for co-design and co-creation between residents and developers. Supporting this type of collaborative urban development is a big step towards making cities more equitable and vibrant.
-
-<h4>Sources:</h4>
-<li>
-  <a href="https://leanurbanism.org"> https://leanurbanism.org
-  </a>
-</li>
-<li>
-  <a href="https://leanurbanism.org/publications/lessons-from-phx/"> https://leanurbanism.org/publications/lessons-from-phx/
-  </a>
-</li>
-<li>
-  <a href="http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf"> http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf
-  </a>
-</li>
-<li>
-  <a href="http://theleanstartup.com/"> http://theleanstartup.com/
-  </a>
-</li>
-<li>
-  <a href="http://www.bostonbrt.org/"> http://www.bostonbrt.org/
-  </a>
-</li>
-<li>
-  <a href="https://www.cnu.org/"> https://www.cnu.org/
-  </a>
-</li>
-<li>
-  <a href="https://www.cnu.org/publicsquare/2017/06/01/great-idea-lean-urbanism"> https://www.cnu.org/publicsquare/2017/06/01/great-idea-lean-urbanism
-  </a>
-</li>
-<li>
-  <a href="https://www.cnu.org/publicsquare/2018/04/17/lean-development-codes-pink-pocket-and-smart"> https://www.cnu.org/publicsquare/2018/04/17/lean-development-codes-pink-pocket-and-smart
-  </a>
-</li>
-<li>
-  <a href="https://archpaper.com/2018/08/chicago-pop-up-ordinance-experiment/"> https://archpaper.com/2018/08/chicago-pop-up-ordinance-experiment/
-  </a>
-</li>
-<li>
-  <a href="https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-i-18105c03cdcf"> https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-i-18105c03cdcf
-  </a>
-</li>
-<li>
-  <a href="https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-ii-53aec76799ff"> https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-ii-53aec76799ff
-  </a>
-</li>
-<li>
-  <a href="https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers"> https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
-  </a>
-</li>
-<li>
-  <a href="https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers">https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
-  </a>
-</li>
-<br>
-<br>
+Furthermore, Lean Urbanists can unlock the potential of their movement by tapping into urbanites’ shared love of community and desire to see their neighborhoods thrive. By enabling more resident feedback at every stage in the planning process, Lean Urbanism can provide opportunities for co-design and co-creation between residents and developers. This type of collaborative urban development is one step towards making cities more equitable and vibrant.
