@@ -21,12 +21,12 @@ It is of course also true that an equilibrium can be achieved in the reverse cas
 This highlights one of the key problems facing urban practitioners. Namely, that elected officials and their appointees have the most influence over decisions related to urban planning, policy and public investment, but they are heavily constrained by politics. Even though we know how to fix many of our cities’ problems, challenges to the status quo are often politically infeasible.
 
 For evidence, look no farther than San Francisco, Boston, or any other housing supply constrained city where housing demand growth has greatly outpaced supply growth over the past 30 years. According to the California Legislative Analyst’s Office:
->"If California had added 210,000 new housing units each year over the past three decades (as opposed to 120,000), [enough to keep California's housing prices no more than 80% >higher than the median for the U.S. as a whole--the price differential which existed in 1980] population would be much greater than it is today.
+>"If California had added 210,000 new housing units each year over the past three decades...population would be much greater than it is today.
 >We estimate that around 7 million additional people would be living in California.
 >In some areas, particularly the Bay Area, population increases would be dramatic. For example,
->San Francisco's population would be more than twice as large (1.7 million people versus around 800,000)."
->In order to meet these astronomical goals, vision and leadership is needed from mayors and their appointed officials. Even with leadership that is capable of setting the right >policy goals and aligning stakeholders, vision and priorities can’t just come from the top.
->If we value equity and diversity, then the insights of local residents and businesses must be included at every point in the development process. A new paradigm of multi->stakeholder, iterative approaches to urban development is needed.
+>San Francisco's population would be more than twice as large."
+
+In order to meet these astronomical goals, vision and leadership is needed from mayors and their appointed officials. Even with leadership that is capable of setting the right policy goals and aligning stakeholders, vision and priorities can’t just come from the top. If we value equity and diversity, then the insights of local residents and businesses must be included at every point in the development process. A new paradigm of multi-stakeholder, iterative approaches to urban development is needed.
 
 Lean Urbanism is a movement that emerged to fill this gap. As we’ll see, it has so far only been partially successful.
 
@@ -87,16 +87,57 @@ Despite the many challenges, I believe the Lean Urbanism movement has potential 
 Furthermore, Lean Urbanists can unlock the potential of their movement by tapping into urbanites’ shared love of community and desire to see their neighborhoods thrive. By enabling more resident feedback at every stage in the planning process, Lean Urbanism can provide opportunities for co-design and co-creation between residents and developers. Supporting this type of collaborative urban development is a big step towards making cities more equitable and vibrant.
 
 <h4>Sources:</h4>
-https://leanurbanism.org
-https://leanurbanism.org/publications/lessons-from-phx/
-http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf
-http://theleanstartup.com/
-http://www.bostonbrt.org/
-https://www.cnu.org/
-https://www.cnu.org/publicsquare/2017/06/01/great-idea-lean-urbanism
-https://www.cnu.org/publicsquare/2018/04/17/lean-development-codes-pink-pocket-and-smart
-https://archpaper.com/2018/08/chicago-pop-up-ordinance-experiment/
-https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-i-18105c03cdcf
-https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-ii-53aec76799ff
-https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
-https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
+<li>
+  <a href="https://leanurbanism.org"> https://leanurbanism.org
+  </a>
+</li>
+<li>
+  <a href="https://leanurbanism.org/publications/lessons-from-phx/"> https://leanurbanism.org/publications/lessons-from-phx/
+  </a>
+</li>
+<li>
+  <a href="http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf"> http://www.lao.ca.gov/reports/2015/finance/housing-costs/housing-costs.pdf
+  </a>
+</li>
+<li>
+  <a href="http://theleanstartup.com/"> http://theleanstartup.com/
+  </a>
+</li>
+<li>
+  <a href="http://www.bostonbrt.org/"> http://www.bostonbrt.org/
+  </a>
+</li>
+<li>
+  <a href="https://www.cnu.org/"> https://www.cnu.org/
+  </a>
+</li>
+<li>
+  <a href="https://www.cnu.org/publicsquare/2017/06/01/great-idea-lean-urbanism"> https://www.cnu.org/publicsquare/2017/06/01/great-idea-lean-urbanism
+  </a>
+</li>
+<li>
+  <a href="https://www.cnu.org/publicsquare/2018/04/17/lean-development-codes-pink-pocket-and-smart"> https://www.cnu.org/publicsquare/2018/04/17/lean-development-codes-pink-pocket-and-smart
+  </a>
+</li>
+<li>
+  <a href="https://archpaper.com/2018/08/chicago-pop-up-ordinance-experiment/"> https://archpaper.com/2018/08/chicago-pop-up-ordinance-experiment/
+  </a>
+</li>
+<li>
+  <a href="https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-i-18105c03cdcf"> https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-i-18105c03cdcf
+  </a>
+</li>
+<li>
+  <a href="https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-ii-53aec76799ff"> https://medium.com/sidewalk-talk/the-first-principles-of-urbanism-part-ii-53aec76799ff
+  </a>
+</li>
+<li>
+  <a href="https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers"> https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
+  </a>
+</li>
+<li>
+  <a href="https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers">https://www.strongtowns.org/journal/2018/5/16/4-simple-things-your-town-can-do-right-now-to-make-life-easier-for-small-scale-developers
+  </a>
+</li>
+<br>
+<br>
