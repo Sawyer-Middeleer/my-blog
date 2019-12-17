@@ -35,7 +35,7 @@ Lean Urbanism is a movement that emerged to fill this gap. As we’ll see, it ha
 The Lean Urbanism movement was started about 5 years ago by the late, great Hank Dittmar and Brian Falk. It’s a project that seeks to leverage the insights of Lean development to deliver high-value urban projects quickly and cheaply.
 
 According to the founders of the Project for Lean Urbanism,
->“Lean Urbanism is a movement of builders, planners, architects, developers, engineers, activists, nonprofits, municipalities, and entrepreneurs, working to lower the barriers >to community-building, to make it easier to start businesses, and to provide more attainable housing and development.”
+>“Lean Urbanism is a movement of builders, planners, architects, developers, engineers, activists, nonprofits, municipalities, and entrepreneurs, working to lower the barriers to community-building, to make it easier to start businesses, and to provide more attainable housing and development.”
 
 Lean Urbanism is inspired by the philosophy first expounded in Eric Ries’ Lean Startup. Ries’ approach to building a business and developing technology products emphasizes principles of frequent interaction with end-users, rapid prototyping, iteration and waste elimination. Compared to older product management methodologies, Lean management principles enable startups (and mature organizations) to deliver products that better address user needs and at lower cost.
 
