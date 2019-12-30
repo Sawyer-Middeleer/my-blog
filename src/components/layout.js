@@ -31,7 +31,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
+        <h1
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
@@ -45,9 +45,9 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            Sawyer Middeleer's Portfolio
           </Link>
-        </h3>
+        </h1>
       )
     }
     return (
