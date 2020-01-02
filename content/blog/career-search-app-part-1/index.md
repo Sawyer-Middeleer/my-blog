@@ -12,7 +12,7 @@ I became curious about whether career search platforms offer anything practical 
 
 However, I came across the O`*`NET My Next Move Interest Profiler web app on the United States Department of Labor’s (DOL) <a href="https://www.mynextmove.org/"> My Next Move website</a>> The Interest Profiler attempts to take on some of these challenges by allowing users to interact with curated DOL data through an interest assessment. It uses results from a questionnaire to recommend occupations to users based on their interests. It’s actually one of several web-based tools built on public data on from the DOL’s O`*`NET database. Moreover, as a digital product based on public data and sponsored by the US government about 20 years ago, the Interest Profiler represents a very early example of federal civic technology.
 
-I’m a huge civic tech nerd, so naturally I explored the tool and researched to find as much information about its creation as I could. I discovered that while the tool is deeply flawed, as any two-decade-old product is bound to be, it is still very successful in many ways. Thinking about how job seekers decide on their careers today, I realized that there might even be an opportunity to redesign the product for a contemporary user.
+I’m a huge civic tech nerd, so naturally I explored the tool and researched to find as much information about its creation as I could. I discovered that while the tool is flawed, as any two-decade-old product is bound to be, it is still very successful in many ways. Thinking about how job seekers decide on their careers today, I realized that there might even be an opportunity to redesign the product for a contemporary user.
 
 But I’m getting ahead of myself. Let’s first see how the Interest Profiler works.
 
