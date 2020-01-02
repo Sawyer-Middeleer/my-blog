@@ -88,7 +88,7 @@ Despite usability issues, as of the 2010 study, the tool still received impressi
 
 There is room for substantial improvement along two axes: focus on user needs and alignment with organizational goals. The review panel that published the 2010 report and DOL identified four key workforce development goals in their 2010 report that O`*`NET data and tools are specifically intended to address:
 
-><ol>
+<ol>
   <li>Defining critical occupations for economic and workforce development for national, state, and regional areas. This includes defining clusters of occupations relevant to policy, program, or research initiatives, such as high-skill, high-demand occupations; science, technology, engineering, and mathematics occupations; career pathways; green jobs; etc.</li>
   <li>Developing skill transferability and worker assessment tools for use in placing adults in jobs, rapid response to layoffs, and supporting economic development.</li>
   <li>Identifying appropriate education and training options for displaced and transitioning workers.</li>
