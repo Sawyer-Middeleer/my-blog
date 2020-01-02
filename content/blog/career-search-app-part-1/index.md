@@ -1,7 +1,7 @@
 ---
 title: Making Your Next Move
 date: "2019-12-29T10:15:34.124Z"
-description: "Part one of a series in which I analyze and redesign the O*NET Interest Profiler, a career search website developed by the National Center for O*NET Development and sponsored by the US Department of Labor."
+description: "Part one of a series in which I redesign the O*NET Interest Profiler, a career search website developed by the National Center for O*NET Development and sponsored by the US Department of Labor."
 tag: "Project"
 ---
 
