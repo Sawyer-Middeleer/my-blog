@@ -64,7 +64,7 @@ const Bio = () => {
         </li>
         <li>
         {` `}
-          And email him at sawyerm[at]uchicago.edu
+          Email him at sawyerm[at]uchicago.edu
         </li>
       </p>
     </div>
