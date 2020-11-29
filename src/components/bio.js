@@ -48,7 +48,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>.
+        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>. He writes about e-commerce, tech and cities at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>
         <li>
         {` `}
         <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
