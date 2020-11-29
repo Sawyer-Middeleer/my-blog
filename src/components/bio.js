@@ -48,12 +48,17 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author},</strong> who is a product manager, amateur chef and
-        Master of Public Policy student at the University of Chicago.
+        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>.
         <li>
         {` `}
         <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
           Connect with him on LinkedIn
+        </a>
+        </li>
+        <li>
+        {` `}
+        <a href={`https://twitter.com/SMiddeleer}`}>
+          Follow him on Twitter
         </a>
         </li>
         <li>
@@ -64,7 +69,7 @@ const Bio = () => {
         </li>
         <li>
         {` `}
-          Email him at sawyerm[at]uchicago.edu
+          Email him at sawyerm[at]hey.com
         </li>
       </p>
     </div>
