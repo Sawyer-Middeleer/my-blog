@@ -57,7 +57,7 @@ const Bio = () => {
         </li>
         <li>
         {` `}
-        <a href={`https://twitter.com/SMiddeleer}`}>
+        <a href={`https://twitter.com/SMiddeleer`}>
           Follow him on Twitter
         </a>
         </li>
