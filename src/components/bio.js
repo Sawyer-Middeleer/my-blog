@@ -49,7 +49,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>. He writes more frequently at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>.
+        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="http://www.thras.io">Thrasio</a>. He writes more frequently at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>.
         <br></br>
         <li>
         {` `}
