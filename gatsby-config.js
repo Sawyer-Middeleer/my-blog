@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `A portfolio featuring technology, cities and society`,
+    title: `A portfolio featuring technology, e-commerce and cities`,
     author: `Sawyer Middeleer`,
     description: `Sawyer's portfolio & blog`,
     siteUrl: `https://sawyerm.com/`,
     social: {
       github: `Sawyer-Middeleer`,
-      linkedin: `sawyer-middeleer`
+      linkedin: `sawyer-middeleer`,
+      twitter: `sawyer-middeleer`
     },
   },
   plugins: [

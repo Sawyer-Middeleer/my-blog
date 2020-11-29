@@ -20,6 +20,7 @@ const Bio = () => {
           social {
             github
             linkedin
+            twitter
           }
         }
       }
@@ -48,7 +49,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>. He writes about e-commerce, tech and cities at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>
+        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="www.thras.io">Thrasio</a>. He writes more frequently at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>.
+        <br></br>
         <li>
         {` `}
         <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
@@ -57,7 +59,7 @@ const Bio = () => {
         </li>
         <li>
         {` `}
-        <a href={`https://twitter.com/SMiddeleer`}>
+        <a href={`https://twitter.com/${social.twitter}`}>
           Follow him on Twitter
         </a>
         </li>
