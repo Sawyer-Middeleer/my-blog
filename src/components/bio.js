@@ -19,7 +19,6 @@ const Bio = () => {
           author
           social {
             github
-            linkedin
             twitter
           }
         }
@@ -51,12 +50,6 @@ const Bio = () => {
       <p>
         Created by <strong>{author}</strong>, a public policy nerd and builder at the intersection of consumer and social good.
         <br></br>
-        <li>
-        {` `}
-        <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
-          Connect with him on LinkedIn
-        </a>
-        </li>
         <li>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>

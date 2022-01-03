@@ -6,7 +6,6 @@ module.exports = {
     siteUrl: `https://sawyerm.xyz/`,
     social: {
       github: `Sawyer-Middeleer`,
-      linkedin: `sawyer-middeleer`,
       twitter: `sawyermidddd`
     },
   },
