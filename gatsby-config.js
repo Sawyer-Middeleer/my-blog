@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `From Here to There: Writings on Consumer & Society`,
+    title: `From Here to There: Building at the Intersection of Consumer & Society`,
     author: `Sawyer Middeleer`,
-    description: `Sawyer's Writings on Consumer & Society`,
+    description: `Sawyer's Writings about Building at the Intersection of Consumer & Society`,
     siteUrl: `https://sawyerm.xyz/`,
     social: {
       github: `Sawyer-Middeleer`,
