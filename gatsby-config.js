@@ -3,7 +3,7 @@ module.exports = {
     title: `Writing`,
     author: `Sawyer Middeleer`,
     description: `From Here to There: Sawyer's Writings on Consumer & Society`,
-    siteUrl: `https://sawyerm.com/`,
+    siteUrl: `https://sawyerm.xyz/`,
     social: {
       github: `Sawyer-Middeleer`,
       linkedin: `sawyer-middeleer`,
