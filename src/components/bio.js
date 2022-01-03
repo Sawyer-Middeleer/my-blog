@@ -7,7 +7,7 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/sm-profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/sawyer-yosemite.jpg/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed
@@ -49,7 +49,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author},</strong> who is an urban planning nerd, amature chef and builder of e-commerce brands at <a href="http://www.thras.io">Thrasio</a>. He writes more frequently at <a href="http://afternormal.substack.com">http://afternormal.substack.com</a>.
+        Created by <strong>{author}</strong>, a public policy nerd and builder at the intersection of consumer and social good.
         <br></br>
         <li>
         {` `}
@@ -68,10 +68,6 @@ const Bio = () => {
         <a href={`https://github.com/${social.github}`}>
           Check out his GitHub
         </a>
-        </li>
-        <li>
-        {` `}
-          Email him at sawyerm[at]hey.com
         </li>
       </p>
     </div>

@@ -7,7 +7,7 @@ module.exports = {
     social: {
       github: `Sawyer-Middeleer`,
       linkedin: `sawyer-middeleer`,
-      twitter: `SMiddeleer`
+      twitter: `sawyermidddd`
     },
   },
   plugins: [
