@@ -1,19 +1,23 @@
 $primary-color: #22333b;
-$civic-tech-tag-color: #8338EC;
+$civic-tech-tag-color: #1424b8;
 $public-policy-tag-color: #3A86FF;
 $product-management-tag-color: #f35b04;
 $web3-tag-color: #FF006E;
+
+$tag-color: #1424b8;
 
 a {
   color: $primary-color;
 }
 
-h1 {
-	text-decoration: none;
-}
-
-h3 {
-	text-decoration: none;
+.btn-tag {
+	padding:2px 6px;
+	display:inline-block;
+	border-radius:1px;
+	border: 1.5px solid $tag-color;
+	background:#fff;
+	font-size:14px;
+	color:$tag-color;
 }
 
 .btn-civic-tech {
