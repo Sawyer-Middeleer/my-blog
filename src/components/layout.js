@@ -45,7 +45,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            Sawyer Middeleer's Writings
+            From Here to There: Building Consumer Products for a Better World
           </Link>
         </h1>
       )
