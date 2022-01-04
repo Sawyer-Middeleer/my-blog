@@ -45,7 +45,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            Sawyer Middeleer's Portfolio
+            Sawyer Middeleer's Writings
           </Link>
         </h1>
       )
