@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `From Here to There: Building Consumer Products for Social Good`,
+    title: `From Here to There: Building Consumer Products for a Better World`,
     author: `Sawyer Middeleer`,
-    description: `Sawyer's Writings aboutBuilding Consumer Products for Social Good`,
+    description: `Sawyer's Writings aboutBuilding Consumer Products for a Better World`,
     siteUrl: `https://sawyerm.xyz/`,
     social: {
       github: `Sawyer-Middeleer`,
