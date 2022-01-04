@@ -17,7 +17,7 @@ It's also where I want to focus my attention and effort.
 
 The key innovation of web3 is a set of mechanisms for human coordination at scale. Tokenomics, smart contracts and scarce digital assets enabled by decentralized protocols are powerful tools for aligning incentives and coordinating action around shared goals. 
 
-When I started grad school, my motivation to study public policy was driven by realizing that private companies - Alphabet, Uber, Facebook - were beginning to drive change in the public realm with more speed and dynamism than state and local governments. I wondered what these companies would be able to achieve if they tried to build for social good, rather than pure profit. 
+When I started grad school, my motivation to study public policy was driven by realizing that private companies - Alphabet, Uber, Facebook - were beginning to drive change in the public realm with more speed and dynamism than state and local governments. How were they were able to act with so much leverage while the public sector often couldn't?  What would these companies would be able to achieve if they tried to build for social good, rather than pure profit?
 
 We're already seeing web3 turbocharge this trend. DAOs, NFT clubs and other experimental projects are wielding the power of their communities to experiment with new forms of organizational governance and capital allocation. Projects like Gitcoin and Regen Network have delivered compelling proofs of concept that show it's possible to use smart contracts and tokenomics to overcome thorny coordination traps to funding public goods.
 
