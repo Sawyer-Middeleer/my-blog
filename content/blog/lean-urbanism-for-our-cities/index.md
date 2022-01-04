@@ -2,7 +2,7 @@
 title: Lean Urbanism for Better Cities
 date: "2019-12-13T22:12:10.284Z"
 description: "By enabling more resident feedback at every stage in the planning process, Lean Urbanism can provide opportunities for co-design and co-creation between residents and developers. Supporting this type of collaborative urban development is a big step towards making cities more equitable and vibrant."
-tag: "Essay"
+tag: "Public Policy"
 ---
 Some of the country’s most progressive cities—New York, Boston, Chicago, Los Angeles, San Francisco—are falling behind. After over a decade of young people moving to cities in droves, <a href="https://www.brookings.edu/blog/the-avenue/2019/05/24/big-city-growth-stalls-further-as-the-suburbs-make-a-comeback/"> city population growth is declining</a>; the “urban renaissance” appears to be waning.
 

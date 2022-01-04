@@ -2,7 +2,7 @@
 title: "The Mayor of the Product"
 date: "2020-05-08T12:12:11.120Z"
 description: "People often say that a product manager is the CEO of the product. I’d like to propose a new analogy that I think is a better fit. In reality, a product manager is the mayor of their product."
-tag: "Essay"
+tag: "Product Management"
 ---
 When I first transitioned into the product manager role, I read as much as I could online about how to be successful. Over and over, I read blogs and articles explaining that the product manager is “the CEO of the product.” At first glance, this analogy makes sense. The PM is responsible in many cases for product strategy, go to market and sometimes even distribution. They work with multi-functional teams to identify and execute on new business opportunities. In some cases, a PM may even have responsibility for a P&L. 
 

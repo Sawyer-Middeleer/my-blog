@@ -2,7 +2,7 @@
 title: Building a Tech-Enabled Wellness Business with Crave Natural
 date: "2019-12-16T12:12:11.120Z"
 description: "A reflection on building Crave Natural as a tech-enabled functional wellness company, 5 months in."
-tag: "Project"
+tag: "Product Management"
 ---
 
 <h3>The Problem</h3>

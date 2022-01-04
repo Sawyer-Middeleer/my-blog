@@ -1,11 +1,17 @@
 import React from "react"
 
 const Tag = ({ postType }) => {
-  if (postType === "Essay") {
-    return <small class="btn-essay">{postType}</small>
+  if (postType === "Civic Tech") {
+    return <small class="btn-civic-tech">{postType}</small>
   }
-  if (postType === "Project") {
-    return <small class="btn-project">{postType}</small>
+  else if (postType === "Web3") {
+    return <small class="btn-web3">{postType}</small>
+  }
+  else if (postType === "Product Management") {
+    return <small class="btn-product">{postType}</small>
+  }
+  else if (postType === "Public Policy") {
+    return <small class="btn-policy">{postType}</small>
   }
 };
 

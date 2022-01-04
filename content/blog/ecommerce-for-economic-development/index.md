@@ -2,7 +2,7 @@
 title: E-commerce for Economic Development
 date: "2020-11-25T12:12:11.120Z"
 description: "The future of community-based small business development."
-tag: "Essay"
+tag: "Public Policy"
 ---
 
 During the three years I lived in Chicago, I spent a lot of time thinking about the relationship between entrepreneurship and economic development. At the Metropolitan Planning Council, I helped facilitate <a href="www.metroplanning.org/woodlawn">a series of public meetings</a> in the South Side’s Woodlawn neighborhood to identify community economic development priorities. We also collaborated with dozens of government, business and community partners to coordinate on solutions to address <a href="https://www.metroplanning.org/work/project/33">deep-rooted and immensely costly</a> racial injustice. Time and again, investing in entrepreneurship in chronically disinvested communities featured as a key engine for equitable growth.

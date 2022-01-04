@@ -2,7 +2,7 @@
 title: Catalyzing Development in Woodlawn
 date: "2020-01-09T12:12:12.120Z"
 description: "Reflecting on a community-focused participatory design process I helped lead with Metropolitan Planning Council."
-tag: "Project"
+tag: "Public Policy"
 ---
 
 ![Woodlawn Corridor Development Initiative Flier](./Woodlawn_CDI.png)

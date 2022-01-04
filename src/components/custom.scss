@@ -1,27 +1,49 @@
-$primary-color: #ff5700;
-$essay-tag-color: #ae00ff;
-$project-tag-color: #00cf15;
+$primary-color: #053c5e;
+$civic-tech-tag-color: #8338EC;
+$public-policy-tag-color: #3A86FF;
+$product-management-tag-color: #FFBE0B;
+$web3-tag-color: #FF006E;
 
 a {
   color: $primary-color;
 }
 
-.btn-essay {
+.btn-civic-tech {
 	padding:2px 6px;
 	display:inline-block;
 	border-radius:1px;
-  border: 1.5px solid $essay-tag-color;
+	border: 1.5px solid $civic-tech-tag-color;
 	background:#fff;
 	font-size:14px;
 	color:$essay-tag-color;
 }
 
-.btn-project {
+.btn-policy {
 	padding:2px 6px;
 	display:inline-block;
 	border-radius:1px;
-  border: 1.5px solid $project-tag-color;
+    border: 1.5px solid $public-policy-tag-color;
 	background:#fff;
 	font-size:14px;
-	color:$project-tag-color;
+	color:$public-policy-tag-color;
+}
+
+.btn-product {
+	padding:2px 6px;
+	display:inline-block;
+	border-radius:1px;
+    border: 1.5px solid $product-management-tag-color;
+	background:#fff;
+	font-size:14px;
+	color:$product-management-tag-color;
+}
+
+.btn-web3 {
+	padding:2px 6px;
+	display:inline-block;
+	border-radius:1px;
+    border: 1.5px solid $web3-tag-color;
+	background:#fff;
+	font-size:14px;
+	color:$web3-tag-color;
 }
