@@ -15,7 +15,7 @@ Amazon, the granddaddy of physical world businesses, exemplifies this rule. The 
 
 In the physical world, technology is an enabling force but the business still has to function on a friction-filled substrate in interaction with legacy systems. Grokking the first half but not the second is a recipe for sure failure. But if you're like Jeff Bezos and figure out how to harness the network effects of an online marketplace while building an operations business that's reliably cheaper and more convenient than everyone else's, you become unstoppable.
 
-So it's no wonder that the seemingly limitless possibilities offered by web3 spark the imaginations of MBAs everywhere. Tokens are remarkable tools for aligning network participants to cooperate effectively. And what are climate change, poverty and ineffective government if not large-scale coordination problems?
+So it's no wonder that the seemingly limitless possibilities offered by web3 spark the imaginations of entrepreneurs everywhere. Tokens are remarkable tools for aligning network participants to cooperate effectively. And what are climate change, poverty and ineffective government if not large-scale coordination problems?
 
 These enticing problem spaces have attracted web3 entrepreneurs since the 2017 hype cycle asking questions like: <a href="https://www2.deloitte.com/us/en/pages/operations/articles/blockchain-supply-chain-innovation.html">What if you put supply chains on the blockchain?</a> <a href="https://invao.org/property-tokenization-the-future-of-real-estate-investing/">Could we tokenize real estate?</a> What about <a href="https://www.citydao.io/">decentralizing a whole city?</a> Even <a href="https://vitalik.ca/general/2021/10/31/cities.html">Vitalik is on board</a>.
 
