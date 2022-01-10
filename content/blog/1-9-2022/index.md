@@ -1,7 +1,7 @@
 ---
 title: Of Atoms and Web3
 date: "2022-01-09T12:12:11.120Z"
-description: "A lot has changed since I published my last post in November, 2020. Some reflections on the last year and where I want to focus my time and effort from now on."
+description: "As someone who is building a career oriented towards housing, retail and sustainability, I'm always thinking about how any new technology can impact the physical world."
 tag: "Web3"
 ---
 
