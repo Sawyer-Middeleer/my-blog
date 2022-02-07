@@ -5,7 +5,7 @@ description: "As someone who is building a career oriented towards housing, reta
 tag: "Web3"
 ---
 
-Some of the most promising opportunities for innovation are where software interfaces with the physcial world. These areas--transportation, supply chain, construction, manufacturing--are so interesting both because of how essential they are to life on Earth (and beyond) and how resistant they've been historically to easy technological solutions. 
+Some of the most promising opportunities for innovation are where software interfaces with the physical world. These areas--transportation, supply chain, construction, manufacturing--are so interesting both because of how essential they are to life on Earth (and beyond) and how resistant they've been historically to easy technological solutions. 
 
   
 
