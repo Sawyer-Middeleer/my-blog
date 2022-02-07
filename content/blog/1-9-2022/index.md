@@ -1,7 +1,7 @@
 ---
 title: Of Atoms and Web3
 date: "2022-01-09T12:12:11.120Z"
-description: "As someone who is building a career oriented towards housing, retail and sustainability, I'm always thinking about how any new technology can impact the physical world."
+description: "Some of the most promising opportunities for innovation are where software interfaces with the physical world. These areas--transportation, supply chain, construction, manufacturing--are so interesting both because of how essential they are to life on Earth (and beyond) and how resistant they've been historically to easy technological solutions. "
 tag: "Web3"
 ---
 
