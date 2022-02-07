@@ -45,7 +45,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            From Here to There: Building Consumer Products for a Better World
+            From Here to There: Infrastructure for a Better World
           </Link>
         </h1>
       )

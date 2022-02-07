@@ -48,7 +48,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Created by <strong>{author}</strong>, a public policy nerd, CPG operator and web3 entrepreneur. 
+        Created by <strong>{author}</strong>, a public policy nerd, CPG operator and entrepreneur. 
         <br></br>
         <li>
         {` `}
